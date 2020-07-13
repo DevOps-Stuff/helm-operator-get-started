@@ -1,5 +1,6 @@
 # Managing Helm releases the GitOps way
 
+THIS IS A FORK from https://github.com/fluxcd/helm-operator-get-started
 **What is GitOps?**
 
 GitOps is a way to do Continuous Delivery, it works by using Git as a source of truth for declarative infrastructure and workloads.
